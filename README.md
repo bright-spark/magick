@@ -1,0 +1,2 @@
+# magick
+Everything Magick
